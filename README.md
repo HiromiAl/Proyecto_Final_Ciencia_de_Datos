@@ -26,10 +26,10 @@ Este proyecto realiza un **Análisis Exploratorio de Datos (EDA)** sobre el conj
 
 ## 📂 Estructura del Repositorio
 
-├── .gitignore # Exclusión de archivos pesados (.csv) 
-├── requirements.txt # Dependencias del proyecto 
-├── README.md # Documentación principal 
-└── Proyecto_Final_EDA.ipynb # Cuaderno ejecutable unificado (Secciones 1 a 7)
+.gitignore # Exclusión de archivos pesados (.csv) 
+requirements.txt # Dependencias del proyecto 
+README.md # Documentación principal 
+Proyecto_Final.ipynb # Cuaderno ejecutable unificado (Secciones 1 a 7)
 
 ---
 
