@@ -1,1 +1,21 @@
+# Archivos de datos pesados (NO subir a GitHub)
+*.csv
+*.zip
+*.gz
 data/
+
+# Archivos de entorno y caché de Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Checkpoints temporales de Jupyter y Colab
+.ipynb_checkpoints/
+.colab/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
