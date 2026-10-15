@@ -26,10 +26,7 @@ Este proyecto realiza un **Análisis Exploratorio de Datos (EDA)** sobre el conj
 
 ## 📂 Estructura del Repositorio
 
-*.gitignore # Exclusión de archivos pesados (.csv) 
-*requirements.txt # Dependencias del proyecto 
-*README.md # Documentación principal 
-*Proyecto_Final.ipynb # Cuaderno ejecutable unificado (Secciones 1 a 7)
+\`\`\`text ├── .gitignore # Exclusión de archivos pesados (.csv) y temporales de Python/Colab ├── requirements.txt # Lista de dependencias y librerías necesarias (pandas, numpy, seaborn, etc.) ├── README.md # Documentación principal del proyecto e instrucciones └── Proyecto\_Final\_EDA.ipynb # Cuaderno ejecutable unificado (Secciones 1 a 7)
 
 ---
 
